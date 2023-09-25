@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <section xml:id="section-title">
-    <title>My great section</title>
+    <title>My great custom section</title>
     <p>Hello world! Hi dad.</p>
     <me>x^2+y^2=z^2</me>
     <image xml:id="tikz-example">
