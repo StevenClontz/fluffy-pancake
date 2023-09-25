@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<section xml:id="section-title">
+    <title>My great section</title>
+    <p>Hello world! Hi dad.</p>
+    <me>x^2+y^2=z^2</me>
+    <image xml:id="tikz-example">
+        <description></description>
+        <latex-image>
+            \begin{tikzpicture}
+            \draw[color=green] (0,0) circle (0.5);
+            \draw (0,0) circle (1);
+            \draw (0,0) circle (2);
+            \end{tikzpicture}
+        </latex-image>
+    </image>
+</section>
